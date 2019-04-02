@@ -35,7 +35,7 @@ function checkCollision(rock) {
 }
 
 function test3(){
-  const test2 = 'test'
+  const test2 = 'notest'
   console.log(test2)
 }
 
