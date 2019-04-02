@@ -34,10 +34,7 @@ function checkCollision(rock) {
   }
 }
 
-function test3(){
-  const test2 = 'notest'
-  console.log(test2)
-}
+
 
 function createRock(x) {
   const rock = document.createElement('div')
