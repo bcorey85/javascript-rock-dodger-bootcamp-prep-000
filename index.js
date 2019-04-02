@@ -34,6 +34,11 @@ function checkCollision(rock) {
   }
 }
 
+function(){
+  const test2 = 'test'
+  console.log(test2)
+}
+
 function createRock(x) {
   const rock = document.createElement('div')
 
