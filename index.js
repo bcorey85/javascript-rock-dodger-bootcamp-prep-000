@@ -34,7 +34,7 @@ function checkCollision(rock) {
   }
 }
 
-function(){
+function test3(){
   const test2 = 'test'
   console.log(test2)
 }
