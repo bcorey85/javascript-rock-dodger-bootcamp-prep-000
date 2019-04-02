@@ -97,7 +97,7 @@ function moveDodger(e) {
 function moveDodgerLeft() {
   
   if(positionToInteger(DODGER.style.left) > 0){
-    DODGER.style.left += 400
+    DODGER.style.left += 4
     window.requestAnimationFrame()
   }
   // implement me!
